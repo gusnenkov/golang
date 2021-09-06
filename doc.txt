@@ -1,0 +1,5 @@
+git commit
+git commit -am "text"
+git push
+history
+&template="branch name".md
